@@ -1,0 +1,2 @@
+SAFETY_OSHA_4A: Never perform a manual emergency valve bleed if the internal pipeline temperature exceeds 100 degrees Celsius due to ignition risk.
+SAFETY_ENV_99: Bearing replacements must only be conducted after a full automated system shutdown to prevent toxic lubricant leakage into the environment.
