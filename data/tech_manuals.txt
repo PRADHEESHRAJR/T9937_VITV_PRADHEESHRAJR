@@ -1,2 +1,0 @@
-TECH_001: High pipeline pressure above 580 PSI requires immediate emergency valve bleed protocol to release internal gas buildup.
-TECH_002: Vibration exceeding 140 Hz on the main pump indicates severe bearing degradation. Requires replacement of the axial bearing assembly.
