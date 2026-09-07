@@ -1,0 +1,8 @@
+streamlit1.32.0
+pandas2.2.0
+fastmcp0.4.1
+langchain0.1.12
+langchain-community0.0.28
+langchain-huggingface0.0.2
+faiss-cpu1.7.4
+sentence-transformers2.3.1
