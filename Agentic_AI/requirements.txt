@@ -1,0 +1,6 @@
+streamlit1.32.0
+pandas2.2.0
+numpy1.26.4
+scikit-learn1.4.0
+langchain0.1.12
+langchain-community0.0.28
